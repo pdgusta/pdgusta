@@ -35,7 +35,7 @@
 
 <div align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C# - Aprendendo o básico" alt="csharp" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python - Aprofundando no básico" **alt="Python" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python - Tenho conhecimento básico" **alt="Python" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript - Tenho conhecimento básico" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git - Tenho bastante contato" **alt="Git" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  title="SQL - Tenho conhecimento básico" alt="SQL" width="40" height="40"/>&nbsp;
