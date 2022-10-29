@@ -1,5 +1,12 @@
 <h1 align="center">Olá! Bem-vindo(a), é um prazer ter você por aqui.</h1>
 
+<div align="center">
+	<img
+	  src="https://github.com/gupdelf/gupdelf/blob/main/1500x500.jfif"
+	  alt="chill image bw japan lake"
+	  style="display: absolute; margin: 0 auto; height: 200px">
+</div>
+
 > *Conecte-se comigo:*
 
 <div id="badges" align="center">
