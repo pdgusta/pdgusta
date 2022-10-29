@@ -21,6 +21,7 @@
   	</a>
 	<br/>
 	<img src="https://komarev.com/ghpvc/?username=gupdelf&style=flat-square&color=blue" alt="profile views"/>
+	<img src="https://img.shields.io/github/followers/gupdelf.svg?style=social&label=Follow&maxAge=2592000" alt="gh followers"/>
 </div>
 
 #### Um pouco mais sobre mim
