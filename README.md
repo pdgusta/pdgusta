@@ -46,10 +46,6 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5 - Tenho bom conhecimento" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-#### Projetos
-
-_Em breve_
-
 <div align="center">
 
   <h1></h1>
