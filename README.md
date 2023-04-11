@@ -26,7 +26,7 @@
 
 #### Um pouco mais sobre mim
 
-> 💻 Sou desenvolvedor web <br/>
+> 💻 Sou Trainee de Cloud Security <br/>
 > 🏙 Moro em São Paulo <br/>
 > ⌛ Tenho 22 anos <br/>
 > 🎓 Estudo InfoSec na FMU <br/>
