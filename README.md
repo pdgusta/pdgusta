@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Bem-vindo(a), é um prazer ter você por aqui.</h1>
+<h1 align="center">Bem-vindo(a)</h1>
 
 <!--div align="center">
 	<img
@@ -26,12 +26,12 @@
 
 #### Um pouco mais sobre mim
 
-> 💻 Sou Trainee de Cloud Security <br/>
+> 💻 Estou como Cloud Security Junior na SLMIT <br/>
 > 🏙 Moro em São Paulo <br/>
-> ⌛ Tenho 22 anos <br/>
+> ⌛ Tenho 23 anos <br/>
 > 🎓 Estudo InfoSec na FMU <br/>
 > 🐽 Palmeirense! <br/>
-
+<!--
 #### Linguagens e Ferramentas
 
 <div align="center">
@@ -46,7 +46,7 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="Docker - Aprendendo o básico" alt="docker" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5 - Tenho bom conhecimento" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
-
+-->
 <div align="center">
 
   <h1></h1>
