@@ -29,10 +29,10 @@
 
 #### Um pouco mais sobre mim
 
-> 💻 Estou como Cloud Security Junior na SLMIT <br/>
+> 💻 Estou atuando como Cloud Security Consultant na @SLMIT <br/>
 > 🏙 Moro em São Paulo <br/>
-> ⌛ Tenho 23 anos <br/>
-> 🎓 Estudo InfoSec na FMU <br/>
+> ⌛ Tenho 24 anos <br/>
+> 🎓 Formado em InfoSec na FMU <br/>
 > 🐽 Palmeirense! <br/>
 <!--
 #### Linguagens e Ferramentas
