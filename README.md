@@ -54,9 +54,9 @@
 		
   <h1></h1>
 	<a href="https://github.com/gupdelf">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gupdelf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupdelf&layout=compact&langs_count=7&theme=dark"/>
-	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gupdelf&theme=dark&hide_border=false&locale=pt-br&date_format=j%20M%5B%20Y%5D"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdgusta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdgusta&layout=compact&langs_count=7&theme=dark"/>
+	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pdgusta&theme=dark&hide_border=false&locale=pt-br&date_format=j%20M%5B%20Y%5D"/>
 	</a>
 </div>
 	
