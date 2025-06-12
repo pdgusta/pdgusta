@@ -10,7 +10,7 @@
 > *Conecte-se comigo:*
 
 <div id="badges" align="center">
-  	<a href="https://www.linkedin.com/in/gustavopottdelfino/">
+  	<a href="[https://www.linkedin.com/in/pdgusta/](https://www.linkedin.com/in/pdgusta/)">
 		<img src="https://img.shields.io/badge/gustavopottdelfino-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/>
   	</a>
 	<a href="mailto:gustavopottpott@gmail.com">
@@ -29,7 +29,7 @@
 
 #### Um pouco mais sobre mim
 
-> 💻 Estou atuando como Cloud Security Consultant na @SLMIT <br/>
+> 💻 Cloud Security Specialist com 3 anos de experiência <br/>
 > 🏙 Moro em São Paulo <br/>
 > ⌛ Tenho 24 anos <br/>
 > 🎓 Formado em InfoSec na FMU <br/>
