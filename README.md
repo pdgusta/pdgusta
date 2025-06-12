@@ -10,7 +10,7 @@
 > *Conecte-se comigo:*
 
 <div id="badges" align="center">
-  	<a href="[https://www.linkedin.com/in/pdgusta/](https://www.linkedin.com/in/pdgusta/)">
+  	<a href="https://www.linkedin.com/in/pdgusta/">
 		<img src="https://img.shields.io/badge/gustavopottdelfino-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/>
   	</a>
 	<a href="mailto:gustavopottpott@gmail.com">
